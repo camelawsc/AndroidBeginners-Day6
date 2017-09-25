@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Day6</string>
+
+    <string name="instruction">Select any number of CheckBox and display the text on the CheckBox on Button Click</string>
+
+    <string name="check1">Check one</string>
+    <string name="check2">Check two</string>
+    <string name="check3">Check three</string>
+    <string name="check4">Check four</string>
+
+    <string name="button_text">Display selected CheckBox values</string>
+    <string name="no_selection">No Checkbox selected.</string>
+    <string name="select_1">%1$s selected.</string>
+    <string name="select_2">%1$s and %2$s selected.</string>
+    <string name="select_3">%1$s, %2$s and %3$s selected.</string>
+    <string name="select_4">%1$s, %2$s, %3$s and %4$s selected.</string>
+</resources>
